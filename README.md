@@ -1,3 +1,6 @@
+# Run the Project
+
+```bash
 git clone https://github.com/Vijay417-sys/internship_dairy.git
 cd internship_dairy
 npm install
